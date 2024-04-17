@@ -20,7 +20,7 @@ This project was bootstrapped with [Vite](https://github.com/vitejs/vite).
 
 ![image](https://github.com/makeit80/final-project-vite/assets/146186897/c1e96a79-e084-4a0c-9a80-721a997c44dc)
 
-[프로젝트로 이동하기](https://aidol.life/)
+[프로젝트로 이동하기](https://aidol.store/)
 
 ## 기술 스택 및 사용 라이브러리
 
